@@ -1,5 +1,12 @@
 pandas
 numpy
-scikit-learn
+sweetviz
+ydata-profiling
+dataprofiler
+pandera
+cerberus
+cryptography
+faker
 matplotlib
 seaborn
+openpyxl
